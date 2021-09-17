@@ -73,7 +73,7 @@ https://localhost:44374/ <br/>
 ![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/1.png)
 
 ### Sample PDF Report
-![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/1.png)
+![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/Screenshot_3.png)
 
 <br/><br/>
 
