@@ -58,7 +58,7 @@ Step 1: <br/>
 Unzip the downloaded folder(HMS.zip) <br/>
 
 Step 2: <br/>
-Open Sln.HMS.sln file with Visual Studio 2019 <br/>
+Open Sln.HMS.sln file with Visual Studio 2019 <br/><br/>
  
 Step 3: <br/>
 Update database connection: appsettings.json <br/>
@@ -72,7 +72,16 @@ Build and run by pressing f5 <br/>
 https://localhost:44374/ <br/>
 ![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/1.png)
 
+### Sample PDF Report
+![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/1.png)
 
+<br/><br/>
+
+### Sample Prescription
+![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/Screenshot_9.png)
+![Main Thumnail](https://github.com/shahedbd/Hospital-Management-System/blob/main/Resource/Screenshot_8.png)
+
+<br/><br/>
 
 ### No need to create migration rule and update database. You just need to build and run the application. Already initial migration rule included with project. Please make sure MS SQL server running properly.  <br/><br/><br/>
 
