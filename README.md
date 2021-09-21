@@ -95,5 +95,12 @@ Skype: shahedatomap<br/>
 <br/><br/><br/>
 
 
+
+# [Buy Full Application](https://codecanyon.net/item/hospital-management-system-aspnet-core-ef-core/33878018)
+
+
+
+<br/><br/>
+
 <h3>Version 1.0.1</h3>
 <pre>Initial Release</pre>
